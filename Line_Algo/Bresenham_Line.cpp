@@ -1,7 +1,7 @@
 /*
 Task 3.2: Bresenham Line Algorithm
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
