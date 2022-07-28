@@ -1,7 +1,7 @@
 // Task 2.1: Empty Color window
 /*
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
