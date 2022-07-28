@@ -1,7 +1,7 @@
 // Task 2.4: Draw a triangle on Black background
 /*
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
