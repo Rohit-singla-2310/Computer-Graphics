@@ -1,6 +1,6 @@
 /*
 Task 4.2: Ellipse Drawing(Mid-Point Theorem)
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 
 #ifdef __APPLE__
