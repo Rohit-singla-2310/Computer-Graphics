@@ -1,7 +1,7 @@
 // Task 2.5: Draw a green color line from (10,10) to (50,50)
 /*
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
