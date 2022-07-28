@@ -1,6 +1,6 @@
 /*
 Task 4.1: Mid-Point Circle
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
