@@ -1,7 +1,7 @@
 // Task 2.5: Draw a rectangle on Black background
 /*
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
