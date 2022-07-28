@@ -1,7 +1,7 @@
 // Task 2.2: Point of width 10 pixel
 /*
 
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 */
 #include <GLUT/glut.h>
 #include <iostream>
